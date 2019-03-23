@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Unity Mod Manager</string>
+    <string name="app_name">Unity Mod Manager [Coexist]</string>
     <string name="menu_launch_game">Launch Game</string>
     <string name="nav_home">Home</string>
     <string name="nav_mod">Mod</string>
